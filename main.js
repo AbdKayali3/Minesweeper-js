@@ -241,6 +241,7 @@ function checkForWin() {
 
 function ChangeDiffeculty(dif) {
     dificulty = parseInt(dif);
+    gameStatus = 0;
     console.log(dificulty);
     document.getElementById(canvasId).innerHTML = "";
     createCellsArray(canvasSize[0],canvasSize[1]);
