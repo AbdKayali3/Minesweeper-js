@@ -232,6 +232,7 @@ function checkForWin() {
         let cellsOpenCount = cellsOpen.length;
         let minesCount = minesLocation.length;
         console.log(cellsOpenCount);
+        console.log("minesCount:"+gtitminesCount);
         if(cellsOpenCount + minesCount == (canvasSize[0]*canvasSize[1])) {
             Win();
         }
@@ -242,6 +243,7 @@ function checkForWin() {
 function ChangeDiffeculty(dif) {
     dificulty = parseInt(dif);
     gameStatus = 0;
+    minesLocation = [];
     console.log(dificulty);
     document.getElementById(canvasId).innerHTML = "";
     createCellsArray(canvasSize[0],canvasSize[1]);
