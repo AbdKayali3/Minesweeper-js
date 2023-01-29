@@ -14,7 +14,7 @@ Minesweeper is an old game and I tried to recreate it in such a small amount of 
 
 
 ## How to Play
-- open ''
+- open [Minesweeper.js web page](https://abdkayali3.github.io/Minesweeper-js/)
 - Choose a difficulty
 - Click on the cells to open them
 - Empty cells means there is no Mines(Bombs) around them
