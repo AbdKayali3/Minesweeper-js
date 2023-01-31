@@ -14,14 +14,15 @@ Minesweeper is an old game and I tried to recreate it in such a small amount of 
 
 
 ## How to Play
+
 - open [Minesweeper web page](https://abdkayali3.github.io/Minesweeper-js/)
-- Choose a difficulty
-- Click on the cells to open them
-- Empty cells means there is no Mines(Bombs) around them
-- A cell withg a number have that amount of bombs around them
+- Choose a difficulty.
+- Click on the cells to open them.
+- Empty cells means there is no Mines(Bombs) around them.
+- A cell withg a number have that amount of bombs around them.
 - You open a cell with a Mines(Bombs) you loose.
-- Be carfull when opening cells around those who have numbers
-- Try to develop and follow a stratigy to win
+- Be carfull when opening cells around those who have numbers.
+- Try to develop and follow a stratigy to win.
 - ✨Good luck ✨ 
 
 
